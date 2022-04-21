@@ -82,7 +82,8 @@
       "icon": "@PROJECT_PATH@/assets/images/the-new-ottu-media-logo-transparent-made-with-postermywall-512x512.png",
       "themeColor": "#fafafa"
     },
-    "pwa-switcher": true
+    "pwa-switcher": true,
+    "publishChangesOnly": true
   },
   "pages": {
     "home.html": {
